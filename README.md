@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Melih Emre</h1>
 <h3 align="center">A passionate Kotlin developer from Turkey</h3>
 
-- 👨‍💻 I'm student at **Bandırma Onyedi Eylül University**
+- 👨‍💻 I graduated from **Bandırma Onyedi Eylül University**
 
 - 🌱 I’m currently learning **Kotlin**
 
