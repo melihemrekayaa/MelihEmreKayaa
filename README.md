@@ -3,7 +3,7 @@
 
 - 👨‍💻 I graduated from **Bandırma Onyedi Eylül University**
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently expertising **Kotlin**
 
 - 👀 I'm interested in **Mobile Development**
 
